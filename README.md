@@ -5,10 +5,10 @@
   <br>
 <h3>
   2.As principais funcionalidades
-**Monitoramento da temperatura e umidade da composteira em tempo real**
-**Controle automático da temperatura e umidade da composteira**
-**Geração de alertas em casos de valores fora do padrão**
-**Armazenamento de dados históricos para análise do processo de produção de adubo orgânico**
+Monitoramento da temperatura e umidade da composteira em tempo real
+Controle automático da temperatura e umidade da composteira
+Geração de alertas em casos de valores fora do padrão**
+Armazenamento de dados históricos para análise do processo de produção de adubo orgânico
 <h3>
   <lr>
   <h3>
@@ -17,16 +17,23 @@
     <br>
     <h3>
       Integrantes do projeto, com os respectivos contatos.
+      <br>
       .Leonardo Bernades (fulanodetal@email.com)
+      <br>
       .Lucas Fidalgo (fulanodetal@email.com)
+      <br>
       .Luiz Estrella (fulanodetal@email.com)
+      <br>
       .Lino Neto (fulanodetal@email.com)
+      <br>
       .Renan Moreira (fulanodetal@email.com)
       <h3>
-  
+        <br>
  <h4>
    Tecnologias utilizadas:
+   <br>
    1. ESP32
+   <br>
    2. Linguagem C 
    <h4>
 
