@@ -10,7 +10,7 @@ Controle automático da temperatura e umidade da composteira
 Geração de alertas em casos de valores fora do padrão**
 Armazenamento de dados históricos para análise do processo de produção de adubo orgânico
 <h3>
-  <lr>
+  <br>
   <h3>
     4.Telas ou imagens do funcionamento do produto
     <h3>
