@@ -4,10 +4,10 @@
 2. Linguagem C
   
   `Tecnologias utilizadas:
-ESP32,
-Linguagem C,
-Sensor de temperatura DHT11, 
-Higrômetro, 
-LCD
+1-ESP32,
+2-Linguagem C,
+3-Sensor de temperatura DHT11, 
+4-Higrômetro, 
+5-LCD
 `
   
