@@ -24,5 +24,6 @@
       <br>
       .Renan Moreira (renanrodrigues2292@gmail.com)
       <h2>
+        
  `Tecnologias utilizadas: ESP32, Linguagem C++, DHT11, LCD, Higrômetro`
 
