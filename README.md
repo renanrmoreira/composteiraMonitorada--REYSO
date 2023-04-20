@@ -14,7 +14,7 @@
       <h2>
       Integrantes do projeto, com os respectivos contatos.
       <br>
-      .Leonardo Bernades (fulanodetal@email.com)
+      .Leonardo Bernades (lmbernardes102@gmail.com)
       <br>
       .Lucas Fidalgo (lucasfidalgo2023@gmail.com)
       <br>
