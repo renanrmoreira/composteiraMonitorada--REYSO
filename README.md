@@ -11,7 +11,7 @@
   Armazenamento de dados históricos para análise do processo de produção de adubo orgânico
   <h3>
   <br>
-  <h2>
+      <h2>
       Integrantes do projeto, com os respectivos contatos.
       <br>
       .Leonardo Bernades (fulanodetal@email.com)
@@ -23,8 +23,7 @@
       .Lino Neto (netosousa187@gmail.com)
       <br>
       .Renan Moreira (renanrodrigues2292@gmail.com)
- <h2>
-      <br>
-
+      <h2>
+        
  `Tecnologias utilizadas: ESP32, Linguagem C++, DHT11, LCD, Higrômetro`
 
