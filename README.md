@@ -7,7 +7,7 @@
   2. As principais funcionalidades:
   Monitoramento da temperatura e umidade da composteira em tempo real
   Controle automático da temperatura e umidade da composteira
-  Geração de alertas em casos de valores fora do padrão**
+  Geração de alertas em casos de valores fora do padrão
   Armazenamento de dados históricos para análise do processo de produção de adubo orgânico
   <h3>
   <br>
@@ -24,6 +24,7 @@
       <br>
       .Renan Moreira (renanrodrigues2292@gmail.com)
       <h2>
+        <br>
         
  `Tecnologias utilizadas: ESP32, Linguagem C++, DHT11, LCD, Higrômetro`
 
