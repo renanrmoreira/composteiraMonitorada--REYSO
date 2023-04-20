@@ -14,15 +14,10 @@
     
       
       Integrantes do projeto, com os respectivos contatos.
-      <br>
       .Leonardo Bernades (lmbernardes102@gmail.com)
-      <br>
       .Lucas Fidalgo (lucasfidalgo2023@gmail.com)
-      <br>
       .Luiz Estrella (luizeduardoestrella@gmail.com)
-      <br>
       .Lino Neto (netosousa187@gmail.com)
-      <br>
       .Renan Moreira (renanrodrigues2292@gmail.com)
       
         
