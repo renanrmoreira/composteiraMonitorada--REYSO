@@ -12,7 +12,7 @@
   <h3>
   <br>
     
-      <h2>
+      
       Integrantes do projeto, com os respectivos contatos.
       <br>
       .Leonardo Bernades (lmbernardes102@gmail.com)
@@ -24,7 +24,7 @@
       .Lino Neto (netosousa187@gmail.com)
       <br>
       .Renan Moreira (renanrodrigues2292@gmail.com)
-      <h2>
+      
         
  `Tecnologias utilizadas: ESP32, Linguagem C++, DHT11, LCD, Higrômetro`
 
